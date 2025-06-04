@@ -1,2 +1,1 @@
-# Playtrack-Music Straming Platform
-The Basic application using Html, css, js Fir revising WebDevelopment  concepts
+# This is my new playtrack repo

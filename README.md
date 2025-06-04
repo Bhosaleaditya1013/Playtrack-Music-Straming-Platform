@@ -52,7 +52,7 @@ Edit
 
 ## 📸 Screenshots
 
-> _You can add screenshots or a demo video here to visually showcase your application._
+![alt text](<Screenshot 2025-01-06 175659.png>)
 
 ---
 
